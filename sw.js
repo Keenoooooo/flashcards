@@ -1,4 +1,4 @@
-const CACHE_NAME = "revision-cards-v23";
+const CACHE_NAME = "revision-cards-v24";
 const ASSETS = [
   "./",
   "./index.html",

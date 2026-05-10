@@ -644,6 +644,615 @@ Reasons
 - Protect the environment
 - Promote fair competition
 `
+    },
+    {
+      question: "Short Run Aggregate Supply (SRAS)",
+      answer: `
+Definition
+- Shows the relationship between the price level and real output in the short run
+- SRAS slopes upward from left to right
+
+Why SRAS slopes upward
+- Higher prices increase profits
+- Firms increase output
+- Some costs fixed in short run
+
+Factors shifting SRAS
+- Labour costs
+- Commodity prices
+- Exchange rates
+- Taxes/subsidies
+- Productivity
+`
+    },
+    {
+      question: "Keynesian vs Neo-Classical LRAS",
+      answer: `
+Neo-Classical LRAS
+- Vertical at full employment
+- Economy self-corrects back to equilibrium
+- Flexible wages/prices
+
+Keynesian LRAS
+- Can be below full employment
+- Sticky wages/prices
+- Government intervention may be needed
+`
+    },
+    {
+      question: "Natural Rate of Unemployment / NAIRU",
+      answer: `
+Definition
+- Lowest unemployment rate possible without causing accelerating inflation
+
+Causes
+- Frictional unemployment
+- Structural unemployment
+- Imperfect labour markets
+
+Evaluation
+- Can change over time
+- Supply-side policies may reduce it
+`
+    },
+    {
+      question: "Demand-Pull Inflation",
+      answer: `
+Definition
+- Inflation caused by excessive aggregate demand
+
+Causes
+- Consumer spending
+- Government spending
+- Exports
+- Cheap credit
+
+Effects
+- Higher prices
+- Reduced purchasing power
+- Possible economic growth
+`
+    },
+    {
+      question: "Cost-Push Inflation",
+      answer: `
+Definition
+- Inflation caused by rising production costs
+
+Causes
+- Wage increases
+- Energy prices
+- Exchange rate depreciation
+- Higher taxes
+
+Effects
+- Lower profits
+- Lower growth
+- Possible unemployment
+`
+    },
+    {
+      question: "Quantity Theory of Money",
+      answer: `
+Theory
+- Excessive money supply growth causes inflation
+
+Key Idea
+- More money chasing same amount of goods
+
+Evaluation
+- Depends on velocity of circulation
+- Inflation may also be caused by supply-side factors
+`
+    },
+    {
+      question: "Wage-Price Spiral",
+      answer: `
+Definition
+- Rising wages increase costs
+- Firms raise prices
+- Workers demand higher wages again
+
+Result
+- Sustained inflation
+`
+    },
+    {
+      question: "Deflation",
+      answer: `
+Definition
+- Sustained fall in general price level
+
+Problems
+- Delayed spending
+- Lower profits
+- Higher unemployment
+- Economic slowdown
+
+Possible Benefits
+- Increased purchasing power
+- Lower costs for consumers
+`
+    },
+    {
+      question: "Structural vs Cyclical Budget Deficits",
+      answer: `
+Structural Deficit
+- Long-term deficit
+- Exists even during economic growth
+
+Cyclical Deficit
+- Caused by recession
+- Temporary fall in tax revenue/increase in benefits
+`
+    },
+    {
+      question: "Public Sector Debt",
+      answer: `
+Definition
+- Total accumulated government borrowing
+
+Problems
+- Interest payments
+- Risk of credit downgrades
+- Crowding out
+- Lower confidence
+
+Evaluation
+- Depends on economic growth and borrowing costs
+`
+    },
+    {
+      question: "Quantitative Easing (QE)",
+      answer: `
+Definition
+- Central bank creates money to buy financial assets
+
+Aims
+- Increase lending
+- Increase AD
+- Prevent recession/deflation
+
+Advantages
+- Stimulates economy
+- Increases liquidity
+
+Disadvantages
+- Inflation risk
+- Asset bubbles
+- Increased inequality
+`
+    },
+    {
+      question: "Asset Bubbles",
+      answer: `
+Definition
+- Rapid rise in asset prices above real value
+
+Examples
+- Housing market
+- Shares
+- Cryptocurrency
+
+Problems
+- Financial instability
+- Crashes/recessions
+`
+    },
+    {
+      question: "Financial Stability",
+      answer: `
+Definition
+- Financial system operates smoothly without crisis
+
+Importance
+- Encourages investment
+- Maintains confidence
+- Prevents banking collapse
+`
+    },
+    {
+      question: "Funding for Lending",
+      answer: `
+Definition
+- Central bank provides cheap funding to banks to encourage lending
+
+Advantages
+- Encourages borrowing and investment
+- Supports economic growth
+
+Disadvantages
+- May increase debt
+- Banks may still avoid risky lending
+`
+    },
+    {
+      question: "Price Discrimination",
+      answer: `
+Definition
+- Charging different prices to different consumers for same product
+
+Advantages
+- Higher profits
+- Some consumers pay lower prices
+
+Disadvantages
+- Unfair pricing
+- Exploitation of consumers
+`
+    },
+    {
+      question: "Game Theory",
+      answer: `
+Definition
+- Analyses strategic behaviour between firms
+
+Used In
+- Oligopolies
+- Pricing decisions
+- Collusion
+`
+    },
+    {
+      question: "Nash Equilibrium",
+      answer: `
+Definition
+- Situation where no firm benefits from changing strategy alone
+
+Importance
+- Explains stable decisions in oligopolies
+`
+    },
+    {
+      question: "Contestability",
+      answer: `
+Definition
+- Ease of entering/leaving a market
+
+High Contestability
+- Low barriers to entry
+- Encourages efficiency
+
+Low Contestability
+- Market power increases
+`
+    },
+    {
+      question: "Satisficing",
+      answer: `
+Definition
+- Firms aim for satisfactory profit rather than maximum profit
+
+Reasons
+- Avoid risk
+- Stakeholder objectives
+- Long-term survival
+`
+    },
+    {
+      question: "Internal vs External Growth",
+      answer: `
+Internal Growth
+- Organic expansion
+- New products/stores
+
+External Growth
+- Mergers/takeovers
+
+Evaluation
+- External growth faster but riskier
+`
+    },
+    {
+      question: "Economies of Scale",
+      answer: `
+Definition
+- Falling average costs as output increases
+
+Examples
+- Purchasing
+- Technical
+- Financial
+- Managerial
+`
+    },
+    {
+      question: "Diseconomies of Scale",
+      answer: `
+Definition
+- Rising average costs as firms become too large
+
+Causes
+- Communication problems
+- Poor coordination
+- Bureaucracy
+`
+    },
+    {
+      question: "Normal vs Abnormal Profit",
+      answer: `
+Normal Profit
+- Minimum profit needed to stay in industry
+
+Abnormal Profit
+- Profit above normal profit
+`
+    },
+    {
+      question: "Revenue Formulas",
+      answer: `
+Formula
+- Total Revenue (TR) = Price x Quantity
+- Average Revenue (AR) = TR / Quantity
+- Marginal Revenue (MR) = Change in TR / Change in Output
+`
+    },
+    {
+      question: "Cost Formulas",
+      answer: `
+Formula
+- Total Cost (TC) = Fixed Costs + Variable Costs
+- Average Cost (AC) = TC / Quantity
+- Marginal Cost (MC) = Change in TC / Change in Output
+`
+    },
+    {
+      question: "Productive Efficiency",
+      answer: `
+Definition
+- Producing at lowest average cost
+
+Shown By
+- Output at lowest point of AC curve
+`
+    },
+    {
+      question: "Allocative Efficiency",
+      answer: `
+Definition
+- Resources allocated according to consumer preferences
+
+Condition
+- Price = Marginal Cost
+`
+    },
+    {
+      question: "Dynamic Efficiency",
+      answer: `
+Definition
+- Efficiency improving over time through innovation/investment
+`
+    },
+    {
+      question: "Terms of Trade",
+      answer: `
+Formula
+- Export Price Index / Import Price Index x 100
+
+Improvement
+- Export prices rise faster than import prices
+`
+    },
+    {
+      question: "Exchange Rate Manipulation",
+      answer: `
+Definition
+- Government/central bank influencing exchange rates artificially
+
+Reasons
+- Improve exports
+- Protect industries
+
+Problems
+- Retaliation
+- Inflation
+`
+    },
+    {
+      question: "Economic and Monetary Union (EMU)",
+      answer: `
+Definition
+- Countries sharing common currency and monetary policy
+
+Advantages
+- Easier trade
+- Lower transaction costs
+
+Disadvantages
+- Loss of monetary policy control
+- Different economies may need different interest rates
+`
+    },
+    {
+      question: "Optimal Currency Area",
+      answer: `
+Definition
+- Region where sharing a currency is economically beneficial
+
+Conditions
+- Labour mobility
+- Similar economies
+- Fiscal transfers
+`
+    },
+    {
+      question: "European Central Bank (ECB)",
+      answer: `
+Role
+- Controls eurozone monetary policy
+- Sets interest rates
+- Maintains inflation stability
+`
+    },
+    {
+      question: "Advantages and Disadvantages of EU Membership",
+      answer: `
+Advantages
+- Free trade
+- Labour mobility
+- Larger markets
+- FDI attraction
+
+Disadvantages
+- Loss of sovereignty
+- Membership costs
+- Regulation
+`
+    },
+    {
+      question: "Labour Mobility",
+      answer: `
+Definition
+- Movement of workers between regions/countries/jobs
+
+Advantages
+- Fills labour shortages
+- Economic growth
+
+Disadvantages
+- Pressure on public services
+- Brain drain
+`
+    },
+    {
+      question: "Capital Flows",
+      answer: `
+Definition
+- Movement of money/investment between countries
+
+Examples
+- FDI
+- Portfolio investment
+`
+    },
+    {
+      question: "MEDCs vs LEDCs",
+      answer: `
+MEDCs
+- High income
+- Advanced industry
+- Better infrastructure
+
+LEDCs
+- Lower income
+- Primary sector dependence
+- Lower living standards
+`
+    },
+    {
+      question: "Purchasing Power Parity (PPP)",
+      answer: `
+Definition
+- Adjusts GDP for differences in living costs between countries
+
+Importance
+- More accurate comparison of living standards
+`
+    },
+    {
+      question: "GDP vs GNP",
+      answer: `
+GDP
+- Output produced within a country
+
+GNP
+- GDP plus net income from abroad
+`
+    },
+    {
+      question: "Human Development Index (HDI)",
+      answer: `
+Measures
+- Income
+- Education
+- Life expectancy
+
+Advantages
+- Wider measure than GDP
+
+Disadvantages
+- Ignores inequality/environment
+`
+    },
+    {
+      question: "Resource Curse",
+      answer: `
+Definition
+- Countries with valuable resources may experience slower development
+
+Reasons
+- Corruption
+- Overdependence on commodities
+- Conflict
+`
+    },
+    {
+      question: "Import Substitution Industrialisation (ISI)",
+      answer: `
+Definition
+- Replacing imports with domestic production
+
+Advantages
+- Protects domestic firms
+- Creates jobs
+
+Disadvantages
+- Inefficiency
+- Lack of competition
+`
+    },
+    {
+      question: "Export-Led Growth",
+      answer: `
+Definition
+- Growth strategy focused on increasing exports
+
+Advantages
+- Foreign currency earnings
+- Higher GDP
+
+Disadvantages
+- Dependence on global demand
+`
+    },
+    {
+      question: "Infrastructure Problems in LEDCs",
+      answer: `
+Examples
+- Poor roads
+- Weak electricity supply
+- Limited internet access
+
+Effects
+- Lower productivity
+- Lower investment
+`
+    },
+    {
+      question: "Population Growth and Development",
+      answer: `
+Advantages
+- Larger workforce
+- Larger markets
+
+Disadvantages
+- Pressure on services
+- Unemployment
+- Resource shortages
+`
+    },
+    {
+      question: "Institutional Weakness",
+      answer: `
+Definition
+- Weak governments/legal systems reducing economic development
+
+Problems
+- Corruption
+- Political instability
+- Weak property rights
+- Lower investment
+`
     }
   ],
   business: [
