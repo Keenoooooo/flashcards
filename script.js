@@ -288,7 +288,7 @@ When regulators intervene:
 `
     },
     {
-      question: "Advantages and disadvantages of monopolies",
+      question: "Advantages and disadvantages of market liberalisation",
       answer: `
 Advantages:
 - Increased consumer choice
@@ -419,7 +419,7 @@ Problems
 `
     },
     {
-      question: "Claimant Count vs Labour Force Survey",
+      question: "Claimant Count vs Labour Force Survey definitions",
       answer: `
 Claimant Count
 - Measures people claiming unemployment benefits
@@ -677,10 +677,6 @@ Conglomerate Integration
 - Expansion into unrelated industries
 - Spreads risk
 `
-    },
-    {
-      question: "What is CSR?",
-      answer: "<span class=\"definition\"><strong>Corporate Social Responsibility</strong>.</span>"
     },
     {
       question: "Define market share.",
