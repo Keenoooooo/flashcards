@@ -997,6 +997,32 @@ Formula
 `
     },
     {
+      question: "Business Objectives and Diagram Positions",
+      answer: `
+Profit Maximisation
+- MC = MR
+
+Revenue Maximisation
+- MR = 0
+- TR is at maximum
+
+Sales Maximisation
+- AR = AC
+- Firm maximises sales while making normal profit
+
+Allocative Efficiency
+- AR = MC
+
+Productive Efficiency
+- MC = AC
+- Lowest point of AC curve
+
+Supernormal Profit
+- AR > AC
+- Profit area between AR and AC
+`
+    },
+    {
       question: "Productive Efficiency",
       answer: `
 Definition
