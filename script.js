@@ -5,6 +5,8 @@ const nextBtn = document.getElementById("nextBtn");
 const flipBtn = document.getElementById("flipBtn");
 const subjectSelect = document.getElementById("subjectSelect");
 const progress = document.getElementById("progress");
+const progressFill = document.getElementById("progressFill");
+const progressBar = document.querySelector(".progress-bar");
 
 const cards = {
   economics: [
@@ -44,9 +46,14 @@ let currentIndex = 0;
 
 function loadCard() {
   const card = cards[currentSubject][currentIndex];
+  const totalCards = cards[currentSubject].length;
+  const progressPercent = ((currentIndex + 1) / totalCards) * 100;
+
   questionEl.textContent = card.question;
   answerEl.textContent = card.answer;
-  progress.textContent = `Card ${currentIndex + 1} of ${cards[currentSubject].length}`;
+  progress.textContent = `Card ${currentIndex + 1} of ${totalCards}`;
+  progressFill.style.width = `${progressPercent}%`;
+  progressBar.setAttribute("aria-valuenow", Math.round(progressPercent));
   flashcard.classList.remove("flipped");
 }
 
