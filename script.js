@@ -364,6 +364,286 @@ Disadvantages:
 - Risk of exploitation
 - Market failure may occur
 `
+    },
+    {
+      question: "Regulation",
+      answer: `
+Pros
+- Protects workers and consumers
+- Prevents exploitation
+- Encourages fair competition
+
+Cons
+- Compliance costs
+- Reduces flexibility of firms
+- May reduce profits
+`
+    },
+    {
+      question: "Actual Growth vs Potential Growth",
+      answer: `
+Actual Economic Growth
+- Increase in real GDP over time
+- Short-run growth
+- Driven by higher AD
+- Measured by % change in real GDP
+
+Potential Economic Growth
+- Increase in productive capacity of the economy
+- Long-run growth
+- Shown by outward shift of LRAS
+- Caused by improved factors of production
+`
+    },
+    {
+      question: "Causes of Economic Growth",
+      answer: `
+Causes
+- Increase in labour supply / population migration
+- Increase in capital investment
+- Increase in land/resources
+- Entrepreneurship
+- Education and training
+- Technological advances
+- Improvements in efficiency/productivity
+`
+    },
+    {
+      question: "Problems With Measuring Unemployment",
+      answer: `
+Problems
+- Some unemployed people do not claim benefits
+- Some may claim benefits while employed
+- Hidden unemployment
+- Countries use different measurement methods
+`
+    },
+    {
+      question: "Claimant Count vs Labour Force Survey",
+      answer: `
+Claimant Count
+- Measures people claiming unemployment benefits
+
+Labour Force Survey (LFS)
+- Survey asking people if they are unemployed
+`
+    },
+    {
+      question: "Relationship Between Government and Business",
+      answer: `
+Government Support
+- Subsidies
+- Spending
+- Tax support
+
+Relationship
+- Balance needed between economic growth and social/environmental protection
+`
+    },
+    {
+      question: "Negative Impacts of Economic Growth",
+      answer: `
+Cons
+- Inflation
+- Environmental damage
+- Inequality
+- Unsustainable growth
+`
+    },
+    {
+      question: "Monopolistic Competition",
+      answer: `
+Characteristics
+- Many buyers and sellers
+- Slightly differentiated products
+- Firms are price makers
+- Low barriers to entry and exit
+- Non-price competition
+- Firms earn normal profit in long run
+`
+    },
+    {
+      question: "Functions & Principles of the WTO",
+      answer: `
+Principles of Trade
+- Non-discrimination
+- Protection from unfair trade/protectionism
+- Predictable trade
+- Fair competition
+- Special provisions for developing countries
+
+Functions of the WTO
+- Set and enforce trade rules
+- Resolve trade disputes
+- Provide forum for negotiations
+- Monitor global trade policies
+- Help developing countries benefit from trade
+`
+    },
+    {
+      question: "Barriers to Entry",
+      answer: `
+Examples
+- Patents
+- Licences
+- Regulation
+- Technical superiority
+- Startup costs
+- Sunk costs
+- Economies of scale
+- Brand loyalty
+- Predatory pricing
+- Advertising
+- Limit pricing
+`
+    },
+    {
+      question: "Natural Monopoly",
+      answer: `
+Natural Monopoly
+- Huge fixed costs
+- Economies of scale are very large
+- One firm can supply the whole market more efficiently
+- Competition would create wasteful duplication
+`
+    },
+    {
+      question: "Absolute Advantage",
+      answer: `
+Absolute Advantage
+- When a country can produce more goods/services than another country using the same resources
+`
+    },
+    {
+      question: "Monopoly Regulation",
+      answer: `
+Methods of Regulation
+- Price regulation (RPI - X pricing)
+- Quality control/performance targets
+- Profit control and covering costs
+
+Problems
+- Unintended consequences
+- Regulatory capture
+- Asymmetric information
+- Higher costs/incentives issues
+`
+    },
+    {
+      question: "Barriers to Exit",
+      answer: `
+Examples
+- Underused assets
+- Sunk cost recovery
+- Contracts
+- Redundancy costs
+`
+    },
+    {
+      question: "Pros and Cons of Privatisation",
+      answer: `
+Pros
+- Increases allocative efficiency
+- Reduces X-inefficiency
+- Profit incentive drives dynamic efficiency
+- Greater competition may improve productivity
+
+Cons
+- Limited competition can cause productive and allocative inefficiency
+- Less profitable services may be cut even if socially desirable
+- Risk of private monopolies
+- Success depends on competition and government regulation
+`
+    },
+    {
+      question: "Reasons for International Trade + Limitations of Comparative Advantage",
+      answer: `
+Reasons for Trade
+- Comparative advantage
+- Trade blocs
+- Non-price factors
+- Protectionism
+- Transport costs
+- Exchange rates
+
+Limitations / Assumptions of Comparative Advantage
+- Assumes no transport costs
+- Assumes perfect information
+- Assumes no economies of scale
+`
+    },
+    {
+      question: "Characteristics of Perfect Competition",
+      answer: `
+Characteristics
+- Many buyers and sellers
+- Homogeneous products
+- Firms are price takers
+- No barriers to entry or exit
+- Perfect information
+- Firms are profit maximisers
+`
+    },
+    {
+      question: "Benefits of International Trade",
+      answer: `
+Benefits
+- Access to goods/services not available domestically
+- Lower costs through comparative advantage
+- Larger markets leading to higher sales and profits
+- Greater consumer choice
+- Economies of scale
+`
+    },
+    {
+      question: "Types of Integration",
+      answer: `
+Backward Vertical Integration
+- Closer to suppliers
+- Greater control over inputs/costs
+
+Forward Vertical Integration
+- Closer to consumers
+- More control over sales/distribution
+
+Horizontal Integration
+- Merger with firms in same industry
+- Reduces competition
+- Increases market share
+
+Conglomerate Integration
+- Expansion into unrelated industries
+- Spreads risk
+`
+    },
+    {
+      question: "Law of Diminishing Returns",
+      answer: `
+Definition
+- In the short run, adding more variable inputs to fixed inputs will eventually cause marginal product to fall
+`
+    },
+    {
+      question: "Rationalisation",
+      answer: `
+Definition
+- Reorganisation of a business to increase efficiency, usually reducing business size/costs
+
+Examples
+- Closing branches
+- Transferring production overseas
+- Reducing product range
+`
+    },
+    {
+      question: "Why Do Governments Regulate Markets?",
+      answer: `
+Reasons
+- Protect consumers
+- Protect workers, e.g. minimum wage
+- Protect the environment
+- Promote fair competition
+`
     }
   ],
   business: [
@@ -375,6 +655,27 @@ Measurable - progress can be tracked
 Achievable - realistic to complete
 Relevant - linked to business aims
 Time-bound - has a deadline
+`
+    },
+    {
+      question: "Types of Integration",
+      answer: `
+Backward Vertical Integration
+- Closer to suppliers
+- Greater control over inputs/costs
+
+Forward Vertical Integration
+- Closer to consumers
+- More control over sales/distribution
+
+Horizontal Integration
+- Merger with firms in same industry
+- Reduces competition
+- Increases market share
+
+Conglomerate Integration
+- Expansion into unrelated industries
+- Spreads risk
 `
     },
     {
@@ -435,6 +736,20 @@ Time-bound - has a deadline
     },
     {
       question: "Advantages and disadvantages of ARR",
+      answer: `
+Advantages
+- Simple to calculate
+- Uses profit figures
+- Easy to compare investments
+
+Disadvantages
+- Ignores time value of money
+- Based on estimates
+- Ignores cash flow
+`
+    },
+    {
+      question: "ARR Profitability Evaluation",
       answer: "<div class=\"answer-list\"><p class=\"pros\"><strong>Pros:</strong> measures profitability, easy to compare projects.</p><p class=\"cons\"><strong>Cons:</strong> ignores timing of profits, uses accounting profit not cash flow.</p></div>"
     },
     {
@@ -451,11 +766,22 @@ Time-bound - has a deadline
     },
     {
       question: "Define gearing",
-      answer: "<span class=\"definition\">Measures the proportion of finance from <strong>loans</strong> rather than owner equity.</span>"
-    },
-    {
-      question: "Interpret gearing ratios",
-      answer: "<span class=\"definition\"><strong>Above 50%</strong> = highly geared.<br><strong>Below 50%</strong> = low geared.</span>"
+      answer: `
+Formula
+- Gearing = (Non-current Liabilities / Capital Employed) x 100
+
+Meaning
+- Measures how much of a business is financed by long-term debt
+
+Low Gearing
+- Lower financial risk
+- Less interest to pay
+
+High Gearing
+- Higher financial risk
+- Higher interest repayments
+- More vulnerable if profits fall
+`
     },
     {
       question: "Define straight line depreciation",
@@ -494,7 +820,25 @@ Time-bound - has a deadline
       answer: "<span class=\"definition\">Measures <strong>social</strong> and private costs and benefits of a project.</span>"
     },
     {
-      question: "Advantages and disadvantages of cost benefit analysis",
+      question: "Pros and Cons of Cost Benefit Analysis (CBA)",
+      answer: `
+Advantages
+- Considers a wide range of costs and benefits
+- Includes impacts on society and the community
+- Values external costs and benefits ignored by businesses
+- Helps rank projects in order of value
+- Shows businesses care about the environment
+
+Disadvantages
+- Difficult to put a value on pollution and social impacts
+- Includes subjective value judgements
+- Intangible benefits vary between people
+- Wrong calculations may lead to poor decisions
+- May not include all stakeholders
+`
+    },
+    {
+      question: "Cost Benefit Analysis Evaluation",
       answer: "<div class=\"answer-list\"><p class=\"pros\"><strong>Pros:</strong> improves efficiency, predicts impacts.</p><p class=\"cons\"><strong>Cons:</strong> hard to value some impacts, long-term effects uncertain.</p></div>"
     },
     {
@@ -524,6 +868,186 @@ Time-bound - has a deadline
     {
       question: "Negotiated total change",
       answer: "<span class=\"definition\">Large-scale change agreed between <strong>management</strong> and employees.</span>"
+    },
+    {
+      question: "Private Costs and Private Benefits",
+      answer: `
+Private Costs
+- Costs paid by the business making the investment
+- Includes training, recruitment and marketing costs
+
+Private Benefits
+- Benefits gained by the business from the investment
+- Includes higher productivity, increased sales, brand value and profit
+`
+    },
+    {
+      question: "Outsourcing",
+      answer: `
+Definition
+- Contracting business processes to an external provider
+
+Examples
+- Finance
+- HR
+- Marketing
+
+Advantages
+- Uses specialists
+- Improved quality
+- Lower costs
+- Focus on core competency
+- Economies of scale
+
+Disadvantages
+- Loss of control
+- Quality issues
+- Ethical concerns
+- Over-reliance on external providers
+- Supplier power may increase
+`
+    },
+    {
+      question: "Advantages and Disadvantages of NPV",
+      answer: `
+Advantages
+- Considers time value of money
+- Uses cash flow
+
+Disadvantages
+- Hard to calculate
+- Relies on estimates
+- Discount rate may be inaccurate
+`
+    },
+    {
+      question: "Public Costs and Public Benefits",
+      answer: `
+Public Costs
+- External costs to society from business activity
+- Environmental damage
+- Loss of open space
+- Increased traffic congestion
+
+Public Benefits
+- External benefits to society
+- Job creation from investment
+- Reduced crime in high unemployment areas
+- Increased tax revenue
+`
+    },
+    {
+      question: "Current Ratio",
+      answer: `
+Formula
+- Current Assets / Current Liabilities
+
+Purpose
+- Measures liquidity
+- Shows ability to pay short-term debts
+
+Normal Value
+- Usually between 1.5 and 2
+`
+    },
+    {
+      question: "Acid Test Ratio",
+      answer: `
+Formula
+- (Current Assets - Inventory) / Current Liabilities
+
+Measures
+- Liquidity of a business
+- Ability to pay short-term debts without selling stock
+
+Normal Value
+- Around 1:1
+`
+    },
+    {
+      question: "Delphi Method",
+      answer: `
+Definition
+- Forecasting method using expert opinions
+
+How It Works
+- Experts answer questionnaires anonymously
+- Responses are collected and shared
+- Experts revise answers after feedback
+- Process repeats until agreement is reached
+`
+    },
+    {
+      question: "Gross Profit Formula",
+      answer: `
+Formula
+- Gross Profit = Revenue - Cost of Sales
+`
+    },
+    {
+      question: "Ansoff's Matrix",
+      answer: `
+Market Penetration
+- Existing products in existing markets
+
+Product Development
+- New products in existing markets
+
+Market Development
+- Existing products in new markets
+
+Diversification
+- New products in new markets
+- Highest risk strategy
+`
+    },
+    {
+      question: "Social Costs and Social Benefits",
+      answer: "<div class=\"answer-list\"><p class=\"cons\"><strong>Social Costs</strong></p><p class=\"cons\">Negative effects on society from business activity</p><p class=\"cons\">Pollution</p><p class=\"cons\">Congestion</p><p class=\"cons\">Noise</p><p class=\"pros\"><strong>Social Benefits</strong></p><p class=\"pros\">Positive effects on society</p><p class=\"pros\">Job creation</p><p class=\"pros\">Better infrastructure</p><p class=\"pros\">Economic growth</p></div>"
+    },
+    {
+      question: "Return on Capital Employed (ROCE)",
+      answer: `
+Formula
+- ROCE = (Operating Profit / Capital Employed) x 100
+
+Purpose
+- Measures profitability and efficiency
+`
+    },
+    {
+      question: "Capital Employed Formula",
+      answer: `
+Formula
+- Capital Employed = Total Assets - Current Liabilities
+`
+    },
+    {
+      question: "Business Aims",
+      answer: `
+For Profit Businesses
+- Profit maximisation
+- Growth
+- Survival
+- Market share
+
+Non Profit Organisations
+- Provide services
+- Help communities
+- Social welfare objectives
+`
+    },
+    {
+      question: "Why Firms Depreciate Assets",
+      answer: `
+Reasons
+- Assets lose value over time
+- Wear and tear
+- Technology becomes outdated
+- Gives more accurate profit figures
+- Matches cost of asset to years used
+- Helps with future planning
+`
     }
   ],
   digital: [
@@ -552,21 +1076,47 @@ function escapeHtml(text) {
 
 function getAnswerLineClass(line, currentClass, isCostsQuestion) {
   const lowerLine = line.toLowerCase();
+  const isBullet = line.startsWith("- ");
 
-  if (lowerLine.startsWith("advantages") || lowerLine.startsWith("benefits") || lowerLine.startsWith("pros")) {
+  if (
+    lowerLine.includes("advantages") ||
+    lowerLine.includes("benefits") ||
+    lowerLine.startsWith("pros") ||
+    lowerLine.startsWith("positive")
+  ) {
     return "pros";
   }
 
-  if (lowerLine.startsWith("disadvantages") || lowerLine.startsWith("costs") || lowerLine.startsWith("cons")) {
+  if (
+    lowerLine.includes("disadvantages") ||
+    lowerLine.includes("negative") ||
+    lowerLine.startsWith("costs") ||
+    lowerLine.startsWith("cons") ||
+    lowerLine.startsWith("problems")
+  ) {
     return "cons";
   }
 
-  if (lowerLine.startsWith("definition") || lowerLine.includes(" formula")) {
-    return lowerLine.includes("formula") ? "formula" : "definition";
+  if (
+    lowerLine.startsWith("formula") ||
+    lowerLine.includes(" formula") ||
+    lowerLine.startsWith("condition") ||
+    lowerLine.includes("=") ||
+    lowerLine.includes("ped of exports")
+  ) {
+    return "formula";
+  }
+
+  if (lowerLine.startsWith("definition")) {
+    return "definition";
   }
 
   if (isCostsQuestion) {
     return "cons";
+  }
+
+  if (!isBullet && line.length <= 45 && !/[.!?]$/.test(line)) {
+    return "definition";
   }
 
   if (line.endsWith(":")) {
@@ -583,17 +1133,20 @@ function formatAnswer(answer, question) {
     return trimmedAnswer;
   }
 
-  const isCostsQuestion = question.toLowerCase().startsWith("costs");
+  const lowerQuestion = question.toLowerCase();
+  const isCostsQuestion = lowerQuestion.startsWith("costs") || lowerQuestion.startsWith("negative");
   let currentClass = isCostsQuestion ? "cons" : "definition";
   const lines = trimmedAnswer.split("\n").map((line) => line.trim()).filter(Boolean);
   const formattedLines = lines.map((line) => {
     currentClass = getAnswerLineClass(line, currentClass, isCostsQuestion);
     const cleanLine = line.replace(/^- /, "");
     const escapedLine = escapeHtml(cleanLine);
-    const lineWithBoldLead = escapedLine
-      .replace(/^([^:]+):$/, "<strong>$1:</strong>")
-      .replace(/^([^:]+): /, "<strong>$1:</strong> ")
-      .replace(/^([A-Za-z -]+) - /, "<strong>$1</strong> - ");
+    const lineWithBoldLead = !cleanLine.includes(" - ") && cleanLine.length <= 45 && !/[.!?]$/.test(cleanLine)
+      ? `<strong>${escapedLine}</strong>`
+      : escapedLine
+        .replace(/^([^:]+):$/, "<strong>$1:</strong>")
+        .replace(/^([^:]+): /, "<strong>$1:</strong> ")
+        .replace(/^([A-Za-z -]+) - /, "<strong>$1</strong> - ");
 
     return `<p class="${currentClass}">${lineWithBoldLead}</p>`;
   });
