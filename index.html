@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <meta name="theme-color" content="#111111">
+  <meta name="apple-mobile-web-app-capable" content="yes">
+  <meta name="apple-mobile-web-app-title" content="Revision Cards">
+  <meta name="apple-mobile-web-app-status-bar-style" content="black-translucent">
+  <title>Revision Cards</title>
+  <link rel="manifest" href="manifest.json">
+  <link rel="apple-touch-icon" href="icon-180.png">
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <div class="app">
+    <header>
+      <h1>Revision Cards</h1>
+      <select id="subjectSelect">
+        <option value="economics">Economics</option>
+        <option value="business">Business</option>
+        <option value="digital">Digital Technology</option>
+      </select>
+    </header>
+
+    <main>
+      <div class="flashcard" id="flashcard">
+        <div class="card-inner">
+          <div class="card-front" id="question">
+            Loading...
+          </div>
+          <div class="card-back" id="answer">
+            Answer
+          </div>
+        </div>
+      </div>
+
+      <div class="buttons">
+        <button id="flipBtn">Flip</button>
+        <button id="nextBtn">Next</button>
+      </div>
+
+      <p id="progress"></p>
+    </main>
+  </div>
+
+  <script src="script.js"></script>
+</body>
+</html>
