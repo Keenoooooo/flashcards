@@ -75,12 +75,16 @@ select {
   color: white;
   font-size: 18px;
   line-height: 1.35;
+  overflow-y: auto;
+  justify-content: flex-start;
 }
 
 .answer-list {
   display: flex;
   flex-direction: column;
-  gap: 10px;
+  gap: 7px;
+  width: 100%;
+  margin: auto 0;
 }
 
 .answer-list p {
