@@ -71,6 +71,37 @@ select {
 
 .card-back {
   transform: rotateY(180deg);
+  background: #111;
+  color: white;
+  font-size: 18px;
+  line-height: 1.35;
+}
+
+.answer-list {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+.answer-list p {
+  margin: 0;
+}
+
+.definition {
+  color: #fff;
+}
+
+.formula {
+  color: #5aa7ff;
+  font-weight: 600;
+}
+
+.pros {
+  color: #2ecc71;
+}
+
+.cons {
+  color: #ff5a5f;
 }
 
 .buttons {
