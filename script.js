@@ -1077,8 +1077,31 @@ function escapeHtml(text) {
 function getAnswerLineClass(line, currentClass, isCostsQuestion) {
   const lowerLine = line.toLowerCase();
   const isBullet = line.startsWith("- ");
+  const negativeSectionNames = [
+    "cons",
+    "disadvantages",
+    "problems",
+    "negative impacts",
+    "negative effects",
+    "high gearing",
+    "public costs",
+    "private costs",
+    "social costs"
+  ];
+  const positiveSectionNames = [
+    "pros",
+    "advantages",
+    "benefits",
+    "possible benefits",
+    "low gearing",
+    "public benefits",
+    "private benefits",
+    "social benefits"
+  ];
+  const cleanLowerLine = lowerLine.replace(/:$/, "");
 
   if (
+    positiveSectionNames.includes(cleanLowerLine) ||
     lowerLine.includes("advantages") ||
     lowerLine.includes("benefits") ||
     lowerLine.startsWith("pros") ||
@@ -1088,6 +1111,7 @@ function getAnswerLineClass(line, currentClass, isCostsQuestion) {
   }
 
   if (
+    negativeSectionNames.includes(cleanLowerLine) ||
     lowerLine.includes("disadvantages") ||
     lowerLine.includes("negative") ||
     lowerLine.startsWith("costs") ||
