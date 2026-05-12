@@ -106,7 +106,7 @@ Disadvantages:
 `
     },
     {
-      question: "Protectionism",
+      question: "Import and Export Substitution",
       answer: `
 Definition:
 Government policies to reduce imports and/or promote exports using tariffs, subsidies or exchange rate management.
@@ -1282,6 +1282,16 @@ Problems
     }
   ],
   business: [
+    {
+      question: "What is rationalisation?",
+      answer: "Rationalisation is when a business reorganises operations to improve efficiency and reduce costs, often involving redundancies or new technology.",
+      color: "white"
+    },
+    {
+      question: "What is the working capital formula?",
+      answer: "Working Capital = Current Assets - Current Liabilities",
+      color: "blue"
+    },
     {
       question: "SMART Objectives",
       answer: `
