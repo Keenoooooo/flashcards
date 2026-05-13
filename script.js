@@ -1193,6 +1193,12 @@ Measures
 - Education
 - Life expectancy
 
+HDI Levels
+- 0-0.49 = Low development
+- 0.5-0.69 = Medium development
+- 0.7-0.79 = High development
+- >0.8 = Very high development
+
 Advantages
 - Wider measure than GDP
 
