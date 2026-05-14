@@ -969,6 +969,22 @@ Causes
 `
     },
     {
+      question: "Define internal economies and diseconomies of scale as well as external economies and diseconomies of scale",
+      answer: `
+Internal Economies of Scale:
+Cost advantages gained by a firm as it increases in size/output, causing long run average costs to fall.
+
+Internal Diseconomies of Scale:
+Cost disadvantages faced by a firm when it becomes too large, causing long run average costs to rise.
+
+External Economies of Scale:
+Cost advantages gained by firms due to growth of the entire industry, leading to lower average costs.
+
+External Diseconomies of Scale:
+Cost disadvantages faced by firms due to expansion of the whole industry, causing average costs to rise.
+`
+    },
+    {
       question: "Normal vs Abnormal Profit",
       answer: `
 Normal Profit
