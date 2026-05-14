@@ -20,6 +20,26 @@ const cards = {
       answer: "A sustained increase in the general price level."
     },
     {
+      question: "CPI (Consumer Price Index) formulas + advantages and disadvantages",
+      answer: `
+FORMULAS:
+- CPI = (Cost of basket in current year / Cost of basket in base year) x 100
+- Inflation rate = ((New CPI - Old CPI) / Old CPI) x 100
+
+ADVANTAGES:
+- Measures inflation clearly and consistently
+- Uses weighted basket of goods making it representative
+- Helps governments and central banks make policy decisions
+- Allows comparisons over time
+
+DISADVANTAGES:
+- Basket may become outdated as consumer habits change
+- Different households experience different inflation rates
+- Quality changes of products are difficult to measure
+- Time lag in collecting data may reduce accuracy
+`
+    },
+    {
       question: "Phillips Curve",
       answer: `
 Shows the possible inverse relationship between unemployment and inflation.
