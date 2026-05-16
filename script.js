@@ -348,35 +348,37 @@ Economy:
     {
       question: "Policies to reduce unemployment",
       answer: `
-Cyclical Unemployment:
-- Use expansionary fiscal policy and/or expansionary monetary policy
-- Increase government spending (G)
-- Reduce taxation (T)
-- Reduce interest rates (i.r.)
-- Quantitative easing (QE)
+CYCLICAL UNEMPLOYMENT
+
+Expansionary Fiscal / Monetary Policy
+- Increase Government Spending (G)
+- Reduce Taxation (T)
+- Reduce Interest Rates (i.r.)
+- Quantitative Easing (QE)
 
 Problems:
-- Conflict of objectives
-- Government finances/debt
-- Consumer and business confidence
-- Time lags
-- Inflationary pressures
+i) Conflict of objectives
+ii) Government finances / debt
+iii) Consumer & business confidence
+iv) Time lags
+v) Inflationary pressures
 
-Structural Unemployment:
-- Education and training
-- Retraining schemes
-- Improve geographical mobility
-- Relocation grants
-- Better transport infrastructure
-- Lower unemployment benefits to increase incentive to work
-- Improve labour market flexibility
+STRUCTURAL UNEMPLOYMENT
+
+1) Education & training
+2) Retraining schemes
+3) Improve geographical mobility
+4) Relocation grants
+5) Better transport infrastructure
+6) Lower unemployment benefits to increase incentive to work
+7) Improve labour market flexibility
 
 Problems:
-- Expensive
-- Long time lags
-- May not match skills employers require
-- Increased income inequality
-- Reduced living standards for unemployed workers
+i) Expensive
+ii) Long time lags
+iii) May not match skills employers require
+iv) Increased income inequality
+v) Reduced living standards for unemployed workers
 `
     },
     {
@@ -1972,7 +1974,7 @@ if ("serviceWorker" in navigator) {
       window.location.reload();
     });
 
-    navigator.serviceWorker.register("./sw.js?v=30").then((registration) => {
+    navigator.serviceWorker.register("./sw.js?v=31").then((registration) => {
       registration.update();
 
       registration.addEventListener("updatefound", () => {
