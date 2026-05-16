@@ -1947,7 +1947,7 @@ if ("serviceWorker" in navigator) {
       window.location.reload();
     });
 
-    navigator.serviceWorker.register("./sw.js").then((registration) => {
+    navigator.serviceWorker.register("./sw.js?v=29").then((registration) => {
       registration.update();
 
       registration.addEventListener("updatefound", () => {

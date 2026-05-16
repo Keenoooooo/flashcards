@@ -1,0 +1,27 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Reset Revision Cards</title>
+</head>
+<body>
+  <p>Resetting Revision Cards...</p>
+  <script>
+    Promise.all([
+      "serviceWorker" in navigator
+        ? navigator.serviceWorker.getRegistrations().then((registrations) =>
+            Promise.all(registrations.map((registration) => registration.unregister()))
+          )
+        : Promise.resolve(),
+      "caches" in window
+        ? caches.keys().then((cacheNames) =>
+            Promise.all(cacheNames.map((cacheName) => caches.delete(cacheName)))
+          )
+        : Promise.resolve()
+    ]).finally(() => {
+      window.location.replace("./index.html?v=29");
+    });
+  </script>
+</body>
+</html>
