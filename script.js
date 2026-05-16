@@ -346,6 +346,40 @@ Economy:
 `
     },
     {
+      question: "Policies to reduce unemployment",
+      answer: `
+Cyclical Unemployment:
+- Use expansionary fiscal policy and/or expansionary monetary policy
+- Increase government spending (G)
+- Reduce taxation (T)
+- Reduce interest rates (i.r.)
+- Quantitative easing (QE)
+
+Problems:
+- Conflict of objectives
+- Government finances/debt
+- Consumer and business confidence
+- Time lags
+- Inflationary pressures
+
+Structural Unemployment:
+- Education and training
+- Retraining schemes
+- Improve geographical mobility
+- Relocation grants
+- Better transport infrastructure
+- Lower unemployment benefits to increase incentive to work
+- Improve labour market flexibility
+
+Problems:
+- Expensive
+- Long time lags
+- May not match skills employers require
+- Increased income inequality
+- Reduced living standards for unemployed workers
+`
+    },
+    {
       question: "Liberalisation",
       answer: `
 Definition:
