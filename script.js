@@ -1755,6 +1755,31 @@ Non Profit Organisations
 `
     },
     {
+      question: "Window Dressing",
+      answer: `
+Definition:
+Window dressing is when a business manipulates or presents financial accounts in a way that makes the business appear more financially attractive than it really is.
+
+Examples:
+- Delaying payments
+- Recording revenue early
+- Selling assets temporarily
+- Reducing short-term liabilities before accounts are published
+
+Purpose:
+- Attract investors
+- Improve shareholder confidence
+- Make profitability/liquidity appear stronger
+- Improve chances of gaining loans
+
+Problems:
+i) Misleading to investors and stakeholders
+ii) May damage reputation if discovered
+iii) Could reduce trust/confidence
+iv) May lead to legal or ethical issues
+`
+    },
+    {
       question: "Why Firms Depreciate Assets",
       answer: `
 Reasons
@@ -1947,7 +1972,7 @@ if ("serviceWorker" in navigator) {
       window.location.reload();
     });
 
-    navigator.serviceWorker.register("./sw.js?v=29").then((registration) => {
+    navigator.serviceWorker.register("./sw.js?v=30").then((registration) => {
       registration.update();
 
       registration.addEventListener("updatefound", () => {
