@@ -224,28 +224,99 @@ Disadvantages:
 `
     },
     {
-      question: "Current Account Deficits",
+      question: "Balance of Payments and Current Account Deficits",
       answer: `
-Structural deficit:
-Long-term current account deficit caused by poor competitiveness.
+Definition:
+The balance of payments is a record of all financial transactions between one country and the rest of the world over a period of time.
 
-Causes:
-- Strong exchange rate
-- High income/import demand
-- Low competitiveness
-- Faster growth than trading partners
+Key Point:
+The balance of payments must sum to zero overall, meaning a current account deficit/surplus is matched by compensating flows on the financial/capital account.
 
-Impacts:
-- Higher living standards short term
-- Can be financed by FDI
-- Debt
-- Currency depreciation
-- Lower growth/jobs
+CURRENT ACCOUNT
 
-Solutions:
-- Currency depreciation
-- Supply-side policies
-- Protectionism
+Includes:
+1) Trade in goods
+2) Trade in services
+3) Primary income
+4) Secondary income/transfers
+
+Current Account Deficit:
+Imports > Exports
+
+Current Account Surplus:
+Exports > Imports
+
+CAPITAL & FINANCIAL ACCOUNT
+
+Definition:
+Records flows of money and investment between countries.
+
+Includes:
+1) Foreign Direct Investment (FDI)
+2) Portfolio investment
+3) Capital transfers
+4) Purchases/sales of assets
+
+Key Point:
+A current account deficit is financed through surplus inflows on the capital/financial account.
+
+CAUSES OF A CURRENT ACCOUNT DEFICIT
+
+1) Low productivity
+2) High labour/factor costs
+3) Strong exchange rate
+4) Poor international competitiveness
+5) Weak industrial structure
+6) High consumer spending on imports
+7) Adverse terms of trade
+8) Lack of comparative advantage
+
+IMPACTS OF A CURRENT ACCOUNT DEFICIT
+
+i) Increased foreign debt
+ii) Falling confidence in the economy
+iii) Downward pressure on the exchange rate
+iv) Job losses in domestic industries
+v) Reliance on capital inflows/FDI
+vi) Lower economic growth
+
+SOLUTIONS TO A CURRENT ACCOUNT DEFICIT
+
+1) Exchange rate depreciation/devaluation
+- Exports become cheaper
+- Imports become more expensive
+
+Problems:
+i) Imported inflation
+ii) Depends on PED/PES
+iii) May worsen terms of trade
+
+2) Supply side policies
+- Improve productivity and competitiveness
+- Education/training
+- Infrastructure investment
+
+Problems:
+i) Expensive
+ii) Long time lags
+
+3) Deflationary policies
+- Reduce aggregate demand
+- Lower import spending
+
+Problems:
+i) Slower economic growth
+ii) Higher unemployment
+
+4) Protectionism
+- Tariffs
+- Quotas
+- Subsidies
+
+Problems:
+i) Retaliation/trade wars
+ii) Reduced consumer choice
+iii) Higher prices
 `
     },
     {
@@ -1974,7 +2045,7 @@ if ("serviceWorker" in navigator) {
       window.location.reload();
     });
 
-    navigator.serviceWorker.register("./sw.js?v=31").then((registration) => {
+    navigator.serviceWorker.register("./sw.js?v=32").then((registration) => {
       registration.update();
 
       registration.addEventListener("updatefound", () => {
