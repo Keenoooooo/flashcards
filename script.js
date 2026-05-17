@@ -1567,6 +1567,25 @@ Time-bound - has a deadline
 `
     },
     {
+      question: "Explain the role played by information technology in the decision-making of a business",
+      answer: `
+Definition:
+Information technology helps businesses collect, process and analyse data so managers can make quicker and more accurate decisions.
+
+Examples and Role:
+- EPOS systems used by supermarkets automatically record sales data
+- This helps managers make stock-control decisions and reorder popular products
+- Management Information Systems (MIS) help managers analyse business performance
+- MIS can support strategic decisions such as pricing or expansion
+- Financial software and spreadsheets help businesses calculate investment appraisal methods such as ARR and payback more accurately
+- Customer databases and online tracking help businesses target advertising more effectively
+
+Overall:
+- IT improves efficiency, accuracy and speed of decision-making
+- However, poor quality data can still lead to incorrect decisions
+`
+    },
+    {
       question: "Types of Integration",
       answer: `
 Backward Vertical Integration

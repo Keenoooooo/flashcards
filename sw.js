@@ -1,9 +1,9 @@
-const CACHE_NAME = "revision-cards-v35";
+const CACHE_NAME = "revision-cards-v36";
 const ASSETS = [
   "./",
   "./index.html",
-  "./style.css?v=35",
-  "./script.js?v=35",
+  "./style.css?v=36",
+  "./script.js?v=36",
   "./manifest.json",
   "./icon.svg",
   "./icon-180.png",
