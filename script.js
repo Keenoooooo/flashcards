@@ -320,6 +320,49 @@ iii) Higher prices
 `
     },
     {
+      question: "What is a cyclical current account deficit?",
+      answer: `
+Definition:
+A cyclical current account deficit is a short-term deficit caused by fluctuations in the business cycle and temporary economic conditions.
+
+Causes:
+- Economic booms increasing imports
+- Changes in demand
+- Commodity price swings
+- Temporary shocks or recessions
+
+Characteristics:
+- Temporary
+- Fluctuates with the economic cycle
+- Often improves when the economy recovers
+
+Example:
+Australia experienced cyclical current account deficits during commodity price falls between 2014-2016.
+`
+    },
+    {
+      question: "What is a structural current account deficit?",
+      answer: `
+Definition:
+A structural current account deficit is a long-term deficit caused by underlying weaknesses in an economy's structure or competitiveness.
+
+Causes:
+- Low productivity
+- Poor competitiveness
+- Weak industrial base
+- Inflation
+- Protectionism
+
+Characteristics:
+- Persistent and long lasting
+- Does not disappear after economic recovery
+- Usually requires structural reforms to solve
+
+Example:
+Argentina has experienced structural current account deficits due to ongoing competitiveness and productivity problems.
+`
+    },
+    {
       question: "Marshall-Lerner Condition",
       answer: `
 Definition:
@@ -1200,6 +1243,22 @@ Formula
 
 Improvement
 - Export prices rise faster than import prices
+- Country can buy more imports per unit of exports
+
+Effect on Current Account
+- Exports may become less competitive
+- Export demand may fall
+- Imports become relatively cheaper
+- Can worsen the current account deficit
+
+Deterioration
+- Import prices rise faster than export prices
+- Country must export more to buy the same imports
+
+Effect on Current Account
+- Imports become more expensive
+- Export demand may rise due to relatively cheaper exports
+- May improve the current account if demand is elastic
 `
     },
     {
