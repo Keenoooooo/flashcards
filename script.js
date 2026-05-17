@@ -1501,6 +1501,62 @@ Problems
       color: "blue"
     },
     {
+      question: "What is a vision statement?",
+      answer: `
+Definition:
+A vision statement is an aspirational description of what a business wants to achieve in the long term.
+
+"The where"
+
+Purpose:
+- Gives the business long-term direction
+- Inspires employees
+- Helps guide strategic decisions
+- Shows stakeholders the future aims of the business
+
+Example:
+"To become the world's most customer-centric company." - Amazon
+`
+    },
+    {
+      question: "What is a mission statement?",
+      answer: `
+Definition:
+A mission statement defines the company's purpose, objectives and how it plans to achieve its vision.
+
+"The how"
+
+Purpose:
+- Explains what the business does
+- Guides daily operations and decision making
+- Communicates aims to stakeholders
+- Helps create business identity and culture
+
+Example:
+"To organise the world's information and make it universally accessible and useful." - Google
+`
+    },
+    {
+      question: "Difference between a vision statement and a mission statement",
+      answer: `
+Vision statement:
+- Focuses on the future
+- Long-term aspiration of the business
+- "Where the business wants to be"
+- Usually broad and supported by multiple mission statements/objectives
+
+Mission statement:
+- Focuses on the present
+- Explains the business purpose and approach
+- "How the business will achieve the vision"
+- More specific and action-focused
+
+Simple way to remember:
+Vision = destination
+Mission = routes/actions to get there
+`
+    },
+    {
       question: "SMART Objectives",
       answer: `
 Specific - clear and focused objective
